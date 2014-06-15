@@ -48,6 +48,10 @@ header {
 	float: left;
 }
 
+#title {
+	text-decoration: none;
+}
+
 #prof-img {
 	margin: 0px 50px;
 	float: left;
