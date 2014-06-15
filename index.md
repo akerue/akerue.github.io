@@ -6,7 +6,7 @@ title: "akerue -self introduction-"
 
 ## Self introduction 
 
-* **Name**: Yuuki Kobayashi
+* **Name**: Yuki Kobayashi
 * **Birth place**: Yamaguchi Pref. (Japan)
 * **Job**: Student at the University of Tokyo (M1)
 * **Laboratory**: [Chiba Shigeru Lab.][csg_url]

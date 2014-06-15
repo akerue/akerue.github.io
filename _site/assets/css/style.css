@@ -20,11 +20,14 @@ h2 {
 	height: 150px;
 }
 
+ul li {
+	list-style: none;
+}
+
 #link ul li {
 	margin-left: 20px;
 	margin-right: 20px;
 	float: left;
-	list-style: none;
 }
 
 #link ul li img {
@@ -46,6 +49,16 @@ header {
 #prof-name {
 	margin: 0px 50px;
 	float: left;
+}
+
+#title a {
+	text-decoration: none;
+	color: black;
+}
+
+#description {
+	margin-left: 20px;
+	width: 500px;
 }
 
 #prof-img {
