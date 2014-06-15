@@ -1,1 +1,9 @@
+author:
+    name: Yuki Kobayashi
+    nickname: akerue
+    email: hsmgn8118akerue{at}gmail.com
 markdown: kramdown
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+layouts:     ./_layouts
