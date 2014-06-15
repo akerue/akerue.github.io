@@ -22,6 +22,15 @@ title: "akerue -self introduction-"
 
 ---
 
+## Hobby
+* Valleyball
+* Read books
+* Compose songs (Rock)
+* Play the guitar
+* Sing a song
+
+---
+
 ## Links
 
 <div id="link" markdown="1">
