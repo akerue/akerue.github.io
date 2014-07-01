@@ -16,12 +16,18 @@ h2 {
   margin-left: 10px;
 }
 
+h3 {
+  color: #61210B;
+  margin-left: 13px;
+}
+
 #link {
 	height: 150px;
 }
 
 ul li {
 	list-style: none;
+	padding: 5px 0px;
 }
 
 #link ul li {

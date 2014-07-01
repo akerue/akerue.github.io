@@ -16,18 +16,45 @@ title: "akerue -self introduction-"
 
 ## Work experience
 
+### **Part-Time** (Internal back-office systems at Tomonokai corporation)
+* **Language**  
+Python, VBScript, Ruby
+* **Application**  
+Web scraping application (to search a situations‐vacant advertisement of other companies)  
+Twitter bot (to retweet target tweet)  
+Business record application (with Ruby on rails) etc...  
+* **System**  
+Regular system backup  
+Network configuration  
+Server management  
+
 ---
 
 ## Research topics
 
+### **Bachelor thesis**
+* **ZNP+: ID/Locator split protocol with anonymity**  
+This resolves the privacy problems that a sniffer can specify communication nodes in ID/Locator split network.
+Communication nodes use temporary identifier instead of permanent identifier.  
+Publication: [Technical report of IEICE][ieice_url]
+
+---
+
+## Skills
+
+* **Language**: C language, Java, Python, Ruby, MySQL
+* **OS**: MacOS, Linux
+* **TOEIC**: 700
+
 ---
 
 ## Hobby
-* Valleyball
-* Read books
-* Compose songs (Rock)
-* Play the guitar
-* Sing a song
+
+* Volleyball, 
+Read books, 
+Compose songs (Rock), 
+Play the guitar, 
+Sing a song
 
 ---
 
@@ -50,3 +77,4 @@ title: "akerue -self introduction-"
 [git_url]: https://github.com/akerue
 [hat_url]: http://akerue.hatenablog.com
 [csg_url]: http://www.csg.ci.i.u-tokyo.ac.jp
+[ieice_url]: http://www.ieice.org/ken/paper/20131219LBi3/
