@@ -48,11 +48,11 @@ Publication: [Technical report of IEICE][ieice_url]
 
 ---
 
-## Hobby
+## Interest
 
 * Volleyball, 
 Read books, 
-Compose songs (Rock), 
+Write songs (Rock), 
 Play the guitar, 
 Sing a song
 
