@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Self introduction</title><link href="http://akerue.github.io/" rel="alternate"></link><link href="http://akerue.github.io/feeds/misc.atom.xml" rel="self"></link><id>http://akerue.github.io/</id><updated>2016-05-30T02:09:00+09:00</updated><entry><title>Self Introduction</title><link href="http://akerue.github.io/self-introduction.html" rel="alternate"></link><published>2016-05-30T02:09:00+09:00</published><author><name>Yuki Kobayashi</name></author><id>tag:akerue.github.io,2016-05-30:self-introduction.html</id><summary type="html">&lt;h2&gt;&lt;strong&gt;Basic Information&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Name&lt;/strong&gt;: Yuki Kobayashi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Birth Place&lt;/strong&gt;: Yamaguchi Pref. (Japan)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Educational Background&lt;/strong&gt;: Graduation of Keio University&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Laboratory&lt;/strong&gt;: &lt;a href="http://www.inl.ics.keio.ac.jp/about"&gt;Teraoka &amp;amp; Kaneko Lab.&lt;/a&gt; → &lt;a href="http://www.csg.ci.i.u-tokyo.ac.jp/"&gt;Chiba Sigeru Lab.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Specialization&lt;/strong&gt;: Computer Science and Software Engineering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programing Language&lt;/strong&gt;: Python, Java, C, ruby, html, css, javascript, MySQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;Development Experience&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;New Business Development&lt;/h3&gt;
+&lt;p&gt;I developed new business in &lt;a href="http://mtl.recruit.co.jp/"&gt;Media Technology Lab&lt;/a&gt; of Recruit Holdings.
+I participated in &lt;a href="http://www.recruit.jp/news_data/release/2014/0401_7535.html"&gt;NewRING&lt;/a&gt; as internship member and won the prize.&lt;/p&gt;
+&lt;p&gt;I launch &lt;a href="http://www.recruit.jp/news_data/release/2015/1023_16294.html"&gt;dood&lt;/a&gt;.
+This service is an application to connect shop clerks and custmers,
+and they can talk about clothes in this application.&lt;/p&gt;
+&lt;p&gt;I also joined &lt;a href="https://theflag.jp/article/54644"&gt;panel discussions&lt;/a&gt; about EC and IT marketing of apparel companies.&lt;/p&gt;
+&lt;h3&gt;Part-Time Job&lt;/h3&gt;
+&lt;p&gt;I worked at &lt;a href="http://www.tomonokai.net/"&gt;Tomonokai corporation&lt;/a&gt; and 
+I implemented and maintenanced internal back-office systems.&lt;/p&gt;
+&lt;p&gt;Applications I built are...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Web scraping application&lt;/strong&gt; (to search a situations‐vacant advertisement of other companies)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Twitter bot&lt;/strong&gt; (to retweet target tweet)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business record application&lt;/strong&gt; (with Ruby on rails) etc…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And other works are...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Regular system backup&lt;/li&gt;
+&lt;li&gt;Network configuration&lt;/li&gt;
+&lt;li&gt;Server management etc...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Internship&lt;/h3&gt;
+&lt;h4&gt;2 weeks US Workshop 2014 in Recruit Holdings&lt;/h4&gt;
+&lt;p&gt;In this internship, I visited startup companies in US (IDEO, Javelin, App socially, and more...) and
+joined workshops to learn how to start business with methods of lean startup.
+In pitch contest of this internship, my team won first prize.&lt;/p&gt;
+&lt;p&gt;This is the &lt;a href="http://recruit-jinji.jp/growthhackinus2014/report/"&gt;report&lt;/a&gt;.&lt;/p&gt;
+&lt;h4&gt;Developer Internship 2014 in Cookpad&lt;/h4&gt;
+&lt;p&gt;I assigned infra team in Cookpad and I redesigned infra monitaring tool in 2 weeks.&lt;/p&gt;
+&lt;h4&gt;Summer Internship 2013 in Kakakucom&lt;/h4&gt;
+&lt;p&gt;This was first internship of Kakakucom.
+I tried to build new function in Tabelog service.
+In this internship, I learned how to implement and deploy new function in web service.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;Hackathon&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;First prize of &lt;a href="http://junction.asia/"&gt;Junction Asia 2016&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Junction Asia is a Hackathon of &lt;a href="http://asia.slush.org/"&gt;Slush Asia&lt;/a&gt;. 
+We built sports training program with Pepper.
+In this program, users can do sports with Pepper.
+And while doing sports, Kinect detected form of users, and calculate different from correct form.
+Pepper gives feed back to users.
+I implemented the program of Pepper with Coregraphe.&lt;/p&gt;
+&lt;p&gt;We were five people team and built it in two days.
+And as prize of Junction Asia, I got chance of speech in Slush Asia.&lt;/p&gt;
+&lt;p&gt;This is the &lt;a href="https://www.change-makers.jp/technology/11041"&gt;report&lt;/a&gt; of Junction Asia.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;Interview&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://hatenanews.com/articles/201410/22957"&gt;Recruit US internship members interview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.recruit.jp/meet_recruit/2014/11/intern20.html"&gt;Recruit summer internship members interview&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;Research Topics&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;Bachelor thesis&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;ZNP+: ID/Locator split protocol with anonymity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This resolves the privacy problems that a sniffer can specify communication nodes in ID/Locator split network. Communication nodes use temporary identifier instead of permanent identifier.&lt;/p&gt;
+&lt;p&gt;Publication: &lt;a href="http://www.ieice.org/ken/paper/20131219LBi3/"&gt;Technical report of IEICE&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;Others&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;My blog&lt;/h3&gt;
+&lt;p&gt;I post my blog in Hatena Blog. → &lt;a href="http://akerue.hatenablog.com/"&gt;人生迷子&lt;/a&gt;&lt;/p&gt;</summary></entry></feed>
